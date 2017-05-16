@@ -1,0 +1,45 @@
+.do-this
+{
+  font-size :24px;
+  background:#51985d;
+  color:white;
+  margin:0 8px 0 0 ;
+  padding:4px 6px;
+  border-radius:3px;
+}
+
+.donot-this
+{
+  font-size :24px;
+  background:#b06262;
+  color:white;
+  margin:0 8px 0 0 ;
+padding:4px 6px;
+border-radius:3px;
+}
+
+.avoid-this
+{
+  font-size :24px;
+  background:#686893;
+  color:white;
+  margin:0 8px 0 0 ;
+  border-radius:3px;
+ padding:4px 6px;
+}
+
+.advice-this
+{
+font-size :24px;
+  background:#8c9664;
+  color:white;
+  margin:0 8px 0 0 ;
+  border-radius:3px;
+ padding:4px 6px;
+	
+}
+
+.span-block {
+	width: 110px;
+	vertical-align:top;
+}
